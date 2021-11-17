@@ -1,2 +1,2 @@
-# Coding_by_Speaking
+# Kaldi_proj
 A speech recognition project kaldi framework
